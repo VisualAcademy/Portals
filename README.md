@@ -7,3 +7,9 @@
 
 https://www.youtube.com/playlist?list=PLO56HZSjrPTA04XCppqLjnb6b9U5oIm0e
 
+1 01_01_Portals 01_닷넷 6의 웹 기본 템플릿 4개를 사용하여 프로젝트 생성 및 실행해보기
+  * https://youtu.be/4v1P019x_Gc 
+2 01_02_미리보기_MVC 프로젝트 내용을 Razor Pages 프로젝트에 추가하기
+  * https://youtu.be/RKjcg-JrEmY
+
+  
