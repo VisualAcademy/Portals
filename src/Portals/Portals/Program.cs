@@ -32,7 +32,10 @@ builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+// 종속성 주입 추가 
 builder.Services.AddTransient<IEmailSender, EmailSender>();
+
 
 var app = builder.Build();
 
